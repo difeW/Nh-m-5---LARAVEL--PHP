@@ -203,6 +203,7 @@ a#scrollUp i{
   color: #FFFFFF;
   font-family: 'Roboto', sans-serif;
   text-decoration: none;
+  padding-left: 4px;
 }
 
 
@@ -265,9 +266,9 @@ a#scrollUp i{
   padding-left: 14px;
 }
 
-.mainmenu ul li:first-child{
+/* .mainmenu ul li:first-child{
   padding-left: 0px;
-}
+} */
 
 .mainmenu ul li a {
 	color: var(--saphire-blue);
@@ -909,9 +910,8 @@ h2.title {
   font-family: 'Roboto', sans-serif;
   font-size: 18px;
   font-weight: 700;
-  margin: 0 15px;
+  margin: 10px 15px 30px 15px;
   text-transform: uppercase;
-  margin-bottom: 30px;
   position: relative;
 }
 
